@@ -16,7 +16,7 @@ public class PRACTICAL_1_2 {
         String A=sc.nextLine();
         startOZ(A);
     }
-    //This function takes string as an argument and check if first character is o or not and also check second character is z or mot.
+    //This function takes string as an argument and check if first character is o or not and also check second character is z or not.
     static void startOZ(String a)
     {
         if(a.charAt(0)=='O' || a.charAt(0)=='o')
